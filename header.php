@@ -3,7 +3,7 @@
  * The main template file.
  *
  * @package Carte Blanche
- * @since 2012
+ * @since 2013
  */
 
 $style = cuisine_get_theme_style( true );
